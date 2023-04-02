@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#photo{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 1%;
+   
+   
+}
+#ydyd{
+    width: 100px;
+    text-align: right;
+    margin-left: 25%;
+    margin-right: 10%;
+    width: 100px;;
+    
+}
+ #first{
+
+color: green;
+background-color: white;
+margin:2%;
+
+text-align: center;
+
+background-size: 20%;
+font-size: 25px;
+}
+
+
+#second{
+    background-color: black;
+}
+#topp{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+
+}
+#one{
+    background-color: white;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    border-radius: 50%;
+}
+#second{
+    background-color: black;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
